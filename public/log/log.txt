@@ -1,0 +1,14 @@
+dhjahjhfdsjahjiwihqhjdfhuuwusWWRdfhjksaur
+这是无用的日志
+This is useless log 
+fdsafdsfsdafdsafdsaf
+fdsafdsafdsafsdafdsafasd
+
+
+添加完过滤规则后
+ 
+ git rm -r --cached
+
+ git add .
+
+ git commit -m "update"
